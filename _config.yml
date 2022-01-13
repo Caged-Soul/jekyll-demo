@@ -30,7 +30,7 @@ twitter_username: foobar
 github_username:  foobar
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
